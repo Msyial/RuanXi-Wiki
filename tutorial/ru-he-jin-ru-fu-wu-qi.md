@@ -4,29 +4,29 @@ description: 一步一步教你如何加入游戏。
 
 # 如何进入服务器
 
-### 安裝 **Java SE Development Kit 18.0.1**&#x20;
+### 安裝 **Java SE Development Kit 18.0.1**
 
 进入 [Oracle官网](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html) 页面向下划，找到 [Windows x64 Installer](https://download.oracle.com/java/18/archive/jdk-18.0.1.1\_windows-x64\_bin.exe) 点击下载。
 
-![打开安装包](../.gitbook/assets/image.png)
+![打开安装包](<../.gitbook/assets/image (1).png>)
 
-![点击下一步](<../.gitbook/assets/image (2).png>)
+![点击下一步](<../.gitbook/assets/image (6).png>)
 
 安装完成即可
 
 ### 下载 PCL2 启动器
 
-进入 [PCL2爱发电网站](https://afdian.net/p/0164034c016c11ebafcb52540025c377)&#x20;
+进入 [PCL2爱发电网站](https://afdian.net/p/0164034c016c11ebafcb52540025c377)
 
-![随便选择一个下载](<../.gitbook/assets/image (4).png>)
+![随便选择一个下载](<../.gitbook/assets/image (9).png>)
 
 下载完成后放到一个你喜欢的文件夹双击打开PCL2
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 点击上方中间的下载
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (8).png>)
 
 在自动安装处选择 1.18.2 下载即可。
 
