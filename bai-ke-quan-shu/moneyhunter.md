@@ -4,7 +4,7 @@ description: 1.18.2 粘液科技生存中的赚钱系统
 
 # MoneyHunter
 
-![由于写的蛮垃圾的给各位大佬帮忙改良改良](<../.gitbook/assets/image (7).png>)
+![由于写的蛮垃圾的给各位大佬帮忙改良改良](<../.gitbook/assets/image (5).png>)
 
 普通玩家砍树，挖矿和打怪获得 **1-5** 阮曦币的概率为 **10%**
 

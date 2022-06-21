@@ -10,7 +10,7 @@ description: 一步一步教你如何加入游戏。
 
 ![打开安装包](<../.gitbook/assets/image (1).png>)
 
-![点击下一步](<../.gitbook/assets/image (6).png>)
+![点击下一步](<../.gitbook/assets/image (2) (1).png>)
 
 安装完成即可
 
@@ -18,15 +18,15 @@ description: 一步一步教你如何加入游戏。
 
 进入 [PCL2爱发电网站](https://afdian.net/p/0164034c016c11ebafcb52540025c377)
 
-![随便选择一个下载](<../.gitbook/assets/image (9).png>)
+![随便选择一个下载](<../.gitbook/assets/image (4) (1).png>)
 
 下载完成后放到一个你喜欢的文件夹双击打开PCL2
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 点击上方中间的下载
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 在自动安装处选择 1.18.2 下载即可。
 
